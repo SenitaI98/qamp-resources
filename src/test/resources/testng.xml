@@ -5,6 +5,21 @@
         <classes>
             <class name="placelab.tests.LoginTest">
             </class>
+            <class name="placelab.tests.ForgotYourPasswordTest">
+            </class>
+            <class name="placelab.tests.LoginEmptyEmail">
+            </class>
+            <class name="placelab.tests.LoginEmptyPassword">
+            </class>
+            <class name="placelab.tests.LoginEmptyPasswordAndEmail">
+            </class>
+            <class name="placelab.tests.LoginInvalidEmail">
+            </class>
+            <class name="placelab.tests.LoginInvalidPassword">
+            </class>
+            <class name="placelab.tests.LoginValidEmailAndPassword">
+            </class>
+
         </classes>
     </test>
 </suite>
